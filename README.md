@@ -1,4 +1,4 @@
-git ## Tổng hợp những câu hỏi Vuejs
+## Tổng hợp những câu hỏi Vuejs
 
 ### References
 
